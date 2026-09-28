@@ -137,15 +137,12 @@ LSPosed 활성화가 필요하면 앱에서 소프트 재시작을 한 번 실�
 
 ## 데모 영상
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/74999009-f421-4007-a724-014910ca8d98"
-         width="300" autoplay loop muted playsinline></video>
-  <video src="https://github.com/user-attachments/assets/0c821531-f5a8-4933-b0e3-1aaca8ce7319"
-         width="300" autoplay loop muted playsinline></video>
-</p>
+| 첫 사용자 루팅 | 소프트 재시작 |
+|:--:|:--:|
+| <img src="docs/first_root.webp" width="300" alt="첫 사용자 루팅"> | <img src="docs/soft_restart.webp" width="300" alt="소프트 재시작"> |
 
 <p align="center">
-  <sub>왼쪽: 첫 사용자 루팅 · 오른쪽: 소프트 재시작</sub>
+  <sub>애니메이션 WebP라 자동으로 재생됩니다. (클릭하면 원본 크기로 볼 수 있습니다.)</sub>
 </p>
 
 ---
