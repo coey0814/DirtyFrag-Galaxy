@@ -138,9 +138,9 @@ LSPosed 활성화가 필요하면 앱에서 소프트 재시작을 한 번 실�
 ## 데모 영상
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/coey0814/DirtyFrag-Galaxy/main/docs/first_root.mp4"
+  <video src="https://github.com/user-attachments/assets/74999009-f421-4007-a724-014910ca8d98"
          width="300" autoplay loop muted playsinline></video>
-  <video src="https://raw.githubusercontent.com/coey0814/DirtyFrag-Galaxy/main/docs/soft_restart.mp4"
+  <video src="https://github.com/user-attachments/assets/0c821531-f5a8-4933-b0e3-1aaca8ce7319"
          width="300" autoplay loop muted playsinline></video>
 </p>
 
