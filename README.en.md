@@ -168,11 +168,9 @@ When LSPosed activation is needed, run a soft restart once in the app.
 
 ## Screenshots
 
-<p align="center">
-  <img src="docs/home.jpg" width="320" alt="Home screen">
-  <img src="docs/log.jpg" width="320" alt="Log screen">
-  <img src="docs/settings.jpg" width="320" alt="Settings screen">
-</p>
+| Home | Log | Settings |
+|:--:|:--:|:--:|
+| <img src="docs/home.jpg" width="300" alt="Home screen"> | <img src="docs/log.jpg" width="300" alt="Log screen"> | <img src="docs/settings.jpg" width="300" alt="Settings screen"> |
 
 ---
 
