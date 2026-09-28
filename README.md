@@ -152,11 +152,9 @@ LSPosed 활성화가 필요하면 앱에서 소프트 재시작을 한 번 실�
 
 ## 스크린샷
 
-<p align="center">
-  <img src="docs/home.jpg" width="320" alt="홈 화면">
-  <img src="docs/log.jpg" width="320" alt="로그 화면">
-  <img src="docs/settings.jpg" width="320" alt="설정 화면">
-</p>
+| 홈 | 로그 | 설정 |
+|:--:|:--:|:--:|
+| <img src="docs/home.jpg" width="300" alt="홈 화면"> | <img src="docs/log.jpg" width="300" alt="로그 화면"> | <img src="docs/settings.jpg" width="300" alt="설정 화면"> |
 
 ---
 
