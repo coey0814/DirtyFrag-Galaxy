@@ -153,15 +153,12 @@ When LSPosed activation is needed, run a soft restart once in the app.
 
 ## Demo videos
 
-<p align="center">
-  <video src="https://raw.githubusercontent.com/coey0814/DirtyFrag-Galaxy/main/docs/first_root.mp4"
-         width="300" autoplay loop muted playsinline></video>
-  <video src="https://raw.githubusercontent.com/coey0814/DirtyFrag-Galaxy/main/docs/soft_restart.mp4"
-         width="300" autoplay loop muted playsinline></video>
-</p>
+| First-run rooting | Soft restart |
+|:--:|:--:|
+| <img src="docs/first_root.webp" width="300" alt="First-run rooting"> | <img src="docs/soft_restart.webp" width="300" alt="Soft restart"> |
 
 <p align="center">
-  <sub>Left: first-run rooting · Right: soft restart</sub>
+  <sub>Animated WebP — plays automatically. (Click to view full size.)</sub>
 </p>
 
 ---
