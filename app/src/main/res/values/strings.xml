@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DirtyFrag Galaxy</string>
+    <string name="auto_root_running">Re-applying ephemeral root…</string>
+
+    <string name="btn_root">ROOT</string>
+    <string name="btn_reverify">RE-ROOT / VERIFY</string>
+    <string name="btn_verify">VERIFY</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_soft_restart">SOFT RESTART</string>
+
+    <string name="tag_health">HEALTH</string>
+    <string name="tag_modules">MODULES</string>
+    <string name="tag_options">OPTIONS</string>
+
+    <string name="opt_manager">Root manager</string>
+    <string name="opt_zygisk">Zygisk</string>
+
+    <string name="auto_root_title">Auto-root on boot</string>
+    <string name="auto_root_sub">Re-apply ephemeral root after each reboot</string>
+    <string name="auto_soft_title">Auto soft restart</string>
+    <string name="auto_soft_sub">Soft restart automatically after verification</string>
+    <string name="notif_channel_name">Root requests</string>
+    <string name="notif_channel_auto">Root automation</string>
+    <string name="notif_channel_desc">KernelSU root grant and activation status</string>
+    <string name="notif_grant_title">Root permission required</string>
+    <string name="notif_grant_text">Turn on ROOT for "DirtyFrag Galaxy" in KernelSU manager &gt; Superuser, then return to the app.</string>
+    <string name="notif_module_title">Module installation required</string>
+    <string name="notif_module_text">In KernelSU manager → Modules, install:\n· Zygisk-Next\n· LSPosed\n(root is already active)</string>
+    <string name="notif_open_manager">Open manager</string>
+    <string name="notif_channel_action">Activation</string>
+    <string name="notif_restart_title">Soft restart required</string>
+    <string name="notif_restart_text">A soft restart is required for LSPosed to work properly. Tap [Soft restart now], or press SOFT RESTART in the app.</string>
+    <string name="notif_restart_action">Soft restart now</string>
+    <string name="notif_progress_title">Auto-root in progress</string>
+    <string name="notif_done_title">Root activation complete</string>
+    <string name="notif_fail_title">Root activation failed</string>
+</resources>

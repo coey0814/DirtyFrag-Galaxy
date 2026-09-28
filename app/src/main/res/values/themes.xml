@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DirtyFrag" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/specter_bg</item>
+        <item name="android:statusBarColor">@color/specter_bg</item>
+        <item name="android:navigationBarColor">@color/specter_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.DirtyFrag.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/specter_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.DirtyFrag</item>
+    </style>
+</resources>

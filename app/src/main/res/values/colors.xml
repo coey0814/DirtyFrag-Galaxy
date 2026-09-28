@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="specter_bg">#FF070B0E</color>
+    <color name="specter_surface">#FF0F151B</color>
+    <color name="specter_teal">#FF2DD4BF</color>
+    <color name="specter_on_bg">#FFE8EEF4</color>
+</resources>

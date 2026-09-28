@@ -1,0 +1,47 @@
+DirtyFrag-Galaxy
+Copyright 2026 the project authors
+
+This product includes software developed by third parties.
+
+--------------------------------------------------------------------------
+lspromise (original DirtyFrag PoC)
+  https://github.com/lsposed/lspromise
+  Licensed under the Apache License, Version 2.0.
+
+DFRoot (exploit chain / late-load flow)
+  https://github.com/diabl0w/DFRoot
+  The exploit JNI sources (exp.c, libc.S, libcxx.S, elf_parser.c, splicehelper)
+  and the overall flow are derived from this project.
+
+DFReroot (SELinux permissive kernel module and code base)
+  https://github.com/polygraphene/DFReroot
+  The bundled dirtyfrag kernel modules (ko/*.ko) are derived from this project.
+
+DirtyInit (unprivileged XFRM/IPsec technique)
+  https://github.com/combeng6th/DirtyInit
+  The IpSec/UDP-encapsulation write primitive is based on this work.
+
+CyberMeowfia (original CVE research)
+  https://github.com/NebuSec/CyberMeowfia
+  https://github.com/polygraphene/CyberMeowfia
+  Licensed under the Apache License, Version 2.0.
+
+KernelSU
+  https://github.com/tiann/KernelSU
+  Copyright KernelSU contributors
+  Licensed under the GNU General Public License v3.0.
+  The bundled ksud binary and KernelSU kernel modules are separate works
+  distributed under GPL-3.0.
+
+Zygisk-Next
+  https://github.com/LSPosed/ZygiskNext
+  Licensed under the GNU General Public License v3.0.
+
+LSPosed
+  https://github.com/LSPosed/LSPosed
+  Licensed under the GNU General Public License v3.0.
+
+--------------------------------------------------------------------------
+The application source in this repository is licensed under the
+Apache License, Version 2.0 (see LICENSE), except for the third-party
+components listed above, which remain under their respective licenses.

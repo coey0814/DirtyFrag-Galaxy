@@ -1,0 +1,18 @@
+.gradle/
+.kotlin/
+.cxx/
+.idea/
+local.properties
+**/build/
+captures/
+*.iml
+
+# Private signing keystore — never commit (the committed AOSP testkey lives in keystore/)
+app/keystore.jks
+*.jks
+*.keystore
+
+# Build artifacts are distributed via GitHub Releases, not in git
+*.apk
+*.aab
+*.ap_
